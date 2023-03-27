@@ -72,7 +72,7 @@ class _RepositoryListState extends State<RepositoryList> {
               child: TextField(
                 controller: _usernameController,
                 decoration: const InputDecoration(
-                  labelText: "Enter the Github username",
+                  labelText: "Enter Github username",
                   border: OutlineInputBorder(),
                 ),
               ),
